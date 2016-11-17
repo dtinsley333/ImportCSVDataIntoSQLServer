@@ -11,5 +11,5 @@ Inline-style:
 ![alt text](https://github.com/dtinsley333/ImportCSVDataIntoSQLServer/blob/master/ImportData.png "Click Task the Import Data")
 
 4.The Sql Server Import Export Wizard Displays
-![alt text]https://github.com/dtinsley333/ImportCSVDataIntoSQLServer/blob/master/ImportWizard.png "Import Export Wizard Displays")
+![alt text](https://github.com/dtinsley333/ImportCSVDataIntoSQLServer/blob/master/ImportWizard.png "Import Export Wizard Displays")
 
