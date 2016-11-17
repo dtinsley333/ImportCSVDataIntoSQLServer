@@ -8,7 +8,8 @@ What you will learn. You will import a CSV file into a sql server table. You can
 2. Create a database or right click on an existing database.
 3. Choose Tasks/Import Data
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Click Task the Import Data")
+![alt text](https://github.com/dtinsley333/ImportCSVDataIntoSQLServer/blob/master/ImportData.png "Click Task the Import Data")
+
 4.The Sql Server Import Export Wizard Displays
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Import Export Wizard Displays")
+![alt text]https://github.com/dtinsley333/ImportCSVDataIntoSQLServer/blob/master/ImportWizard.png "Import Export Wizard Displays")
 
